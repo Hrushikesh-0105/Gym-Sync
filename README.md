@@ -59,23 +59,4 @@
    ```bash
    flutter run
    ```
-
----
-
-## 📂 Project Structure
-
-```
-Gym-Sync/
-├── android/              # Android-specific files
-├── ios/                  # iOS-specific files
-├── lib/                  # Main application code
-│   ├── models/           # Data models
-│   ├── screens/          # UI screens
-│   ├── services/         # Firebase and other services
-│   └── main.dart         # Entry point of the application
-├── assets/               # Images and fonts
-├── pubspec.yaml          # Project metadata and dependencies
-└── README.md             # Project documentation
-```
-
 ---
